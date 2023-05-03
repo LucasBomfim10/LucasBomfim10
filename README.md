@@ -15,8 +15,7 @@ Sou um estudante apaixonado por programação e em busca de uma oportunidade de 
 </div>
  
  ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBomfim10&layout=compact)](https://github.com/LucasBomfim10/github-readme-stats)
-          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBomfim10)](https://github.com/LucasBomfim10/github-readme-stats)          
 <!---
 LucasBomfim10/LucasBomfim10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
