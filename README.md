@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou um estudante apaixonado por programação e em busca de uma oportunidade de estágio na área de front-end. Meu foco principal de estudo tem sido HTML, CSS e JavaScript, e estou sempre procurando expandir meus conhecimentos nessas tecnologias. Tenho habilidades em trabalhar em equipe, sou comprometido e dedicado a entregar projetos com alta qualidade. Estou entusiasmado para aprender e crescer na minha carreira de desenvolvedor front-end.
+Sou um estudante apaixonado por programação e em busca de uma oportunidade de estágio na área de front-end. Meu foco principal de estudo tem sido HTML, CSS e JavaScript, e estou sempre procurando expandir meus conhecimentos nessas tecnologias. Tenho habilidades em trabalhar em equipe, sou comprometido e dedicado a entregar projetos com alta qualidade. Estou entusiasmado para aprender e crescer na minha carreira de desenvolvedor.
 
 ## Tecnologias
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
