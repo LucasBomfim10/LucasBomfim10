@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou um estudante apaixonado por programação e estou em busca de oportunidades para crescer e contribuir no campo da tecnologia. Meu foco principal tem sido no desenvolvimento web, incluindo HTML, CSS e JavaScript, mas estou aberto a explorar diversas áreas da programação e tecnologia.
+Sou um estudante de tecnologia, atualmente cursando Ciência da Computação no Instituto Federal de Brasília. Estou constantemente buscando aprimorar minhas habilidades através de cursos online e projetos pessoais, com o objetivo de me desenvolver em diversas áreas da tecnologia além do desenvolvimento web, onde já possuo certo conhecimento. Minhas principais áreas de interesse incluem análise de dados e segurança, e recentemente tenho dedicado meus estudos em áreas como análise de dados, banco de dados e redes.
 
 ## Tecnologias
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
