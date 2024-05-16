@@ -1,13 +1,17 @@
 # Olá, me chamo Lucas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou um estudante de tecnologia, atualmente cursando Ciência da Computação no Instituto Federal de Brasília. Estou constantemente buscando aprimorar minhas habilidades através de cursos online e projetos pessoais, com o objetivo de me desenvolver em diversas áreas da tecnologia além do desenvolvimento web, onde já possuo certo conhecimento. Minhas principais áreas de interesse incluem análise de dados e segurança, e recentemente tenho dedicado meus estudos em áreas como análise de dados, banco de dados e redes.
+Sou estudante de Ciência da Computação no Instituto Federal de Brasília, com um forte interesse em análise de dados. Atualmente, estou aprimorando minhas habilidades através de cursos online e projetos pessoais, com foco em ferramentas como Python, SQL e Power BI.
+
+Tenho direcionado meus estudos para áreas como análise de dados, banco de dados e visualização de dados, sempre buscando expandir meu conhecimento e aplicá-lo de forma prática. Além disso, possuo uma base sólida em desenvolvimento web, complementando minhas habilidades técnicas.
+
+Minhas principais competências incluem resolução de problemas, pensamento criativo e trabalho em equipe, desenvolvidas em projetos acadêmicos e experiências profissionais. Durante meu último estágio, conduzi análises de dados utilizando SQL, trabalhei com HTML e CSS para design web, e forneci suporte técnico em ambiente Windows.
+
 
 ## Tecnologias
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+ 
           
  
 ## Contatos:
